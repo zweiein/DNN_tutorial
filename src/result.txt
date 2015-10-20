@@ -1,0 +1,29 @@
+[tanh]
+epoch 1000, minibatch 2500/2500, validation error 1.700000 %
+Optimization complete. Best validation score of 1.690000 % obtained at iteration 2367500, with test performance 1.650000 %
+The code for file mlp.py ran for 43.12m
+
+[sigmoid]
+epoch 1000, minibatch 2500/2500, validation error 2.140000 %
+Optimization complete. Best validation score of 2.140000 % obtained at iteration 2440000, with test performance 2.080000 %
+The code for file mlp.py ran for 70.43m
+
+[tanh+no regularization]
+epoch 1000, minibatch 2500/2500, validation error 1.800000 %
+Optimization complete. Best validation score of 1.790000 % obtained at iteration 2157500, with test performance 1.920000 %
+The code for file mlp.py ran for 49.93m
+
+[relu+ 1norm + 2norm]
+epoch 1000, minibatch 2500/2500, validation error 1.630000 %
+Optimization complete. Best validation score of 1.620000 % obtained at iteration 2412500, with test performance 1.640000 %
+The code for file mlp.py ran for 74.85m
+
+[relu+no regu]
+epoch 597, minibatch 2500/2500, validation error 1.810000 %
+Optimization complete. Best validation score of 1.790000 % obtained at iteration 747500, with test performance 1.780000 %
+The code for file mlp.py ran for 32.54m
+
+[relu + 2 norm]
+epoch 1000, minibatch 2500/2500, validation error 1.630000 %
+Optimization complete. Best validation score of 1.620000 % obtained at iteration 2412500, with test performance 1.640000 %
+The code for file mlp.py ran for 75.09m
